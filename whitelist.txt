@@ -1,16 +1,3 @@
 #profile-title: White list Niyakwi
 #profile-update-interval: 5
 #support-url: https://t.me/Niyakwi_news
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=127.0.0.1#5300
-socks5://130.193.43.183:1080
-vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@85.92.111.38:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🇷🇺
-vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@85.92.111.38:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2334
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?flow=xtls-rprx-vision&fp=chrome&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&security=reality&sid=03a70b17f8036009&sni=smartcaptcha.yandexcloud.net&spx=%2FHesarWeb&type=tcp#t.me%2Ffreekesha21
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009#t.me%2Ffreekesha21
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#t.me%2Ffreekesha21
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&sni=smartcaptcha.yandexcloud.net#1226
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@91.240.86.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE&security=reality&sid=c31188450fe50718&sni=www.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20LTE%2013%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
-vless://7cea1618-9e63-4552-9942-68004edfa960@79.174.92.133:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#2666
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.52.42:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eda.x5.ru&sid=226509f017e4c36d#🔥Join+Telegram:@Farah_VPN🟣
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.52.42:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&sni=eda.x5.ru#1667
