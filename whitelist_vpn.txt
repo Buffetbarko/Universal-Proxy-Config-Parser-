@@ -1,5 +1,4 @@
-vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&sni=max.ru#t.me%2Ffreekesha21
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@185.233.104.77:2054?type=grpc&security=reality&fp=firefox&pbk=ZiTQKF9QGeU4kt3NGbfwDa9n1TQ9l-p4ZhAUx94oQBc&sid=46a38b73a4ed4ccd&sni=www.ibm.com&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA%20LTE%20119%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
-vless://a1a5e8d6-0e55-4546-b2e4-a9e1110f0a44@82.202.182.21:5269?type=tcp&security=reality&fp=firefox&pbk=OqJqgerwFYs9iKOIbUfbjoGJxj3ZN2ixmNMnYR8gOns&sid=058e7a017a9b3f03&sni=max.ru#0675
-vless://a1a5e8d6-0e55-4546-b2e4-a9e1110f0a44@82.202.182.21:5269?type=tcp&security=reality&fp=qq&pbk=OqJqgerwFYs9iKOIbUfbjoGJxj3ZN2ixmNMnYR8gOns&sid=058e7a017a9b3f03&sni=max.ru#5602
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@91.239.7.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=alban6.helper-internet.com#t.me%2Ffreekesha21
+hysteria2://58f133a9-0b8c-4237-ba40-c69d32a35e27@gm.serviceoda.ru:443?sni=gm.serviceoda.ru&security=tls&fp=chrome#4086
+vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&sni=max.ru#0788
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@91.239.7.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=alban6.helper-internet.com#5640
+vless://c10f24d6-90ca-0001-87c9-86aa398bf704@185.247.185.238:443?type=tcp&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=id.x5.ru#t.me%2Ffreekesha21
