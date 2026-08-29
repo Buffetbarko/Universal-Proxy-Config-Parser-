@@ -1,3 +1,0 @@
-#profile-title: White list Niyakwi
-#profile-update-interval: 5
-#support-url: https://t.me/Niyakwi_news
