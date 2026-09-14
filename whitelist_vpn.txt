@@ -1,15 +1,5 @@
 #profile-title: White list Niyakwi
 #profile-update-interval: 2
 #support-url: https://t.me/Niyakwi_news
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakF4Wg@83.171.225.55:1443#%F0%9F%87%B7%F0%9F%87%BA+336ms+%C2%B7+1Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA+472ms+%C2%B7+18Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA+2493ms+%C2%B7+14Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?encryption=none&fp=chrome&mode=multi&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA+528ms
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?encryption=none&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA+535ms
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?encryption=none&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA+488ms
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA+1044ms+%C2%B7+11Mbps
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA+855ms+%C2%B7+12Mbps
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA+919ms+%C2%B7+15Mbps
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&security=reality&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA+3147ms+%C2%B7+9Mbps
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA+2072ms+%C2%B7+6Mbps
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA+836ms+%C2%B7+9Mbps
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime55.workers.dev#%F0%9F%87%B7%F0%9F%87%BA+3228ms+%C2%B7+11Mbps
+vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@envato.com:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=shiny-mud-d9fa.466.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%F0%9F%8C%90+1668ms
