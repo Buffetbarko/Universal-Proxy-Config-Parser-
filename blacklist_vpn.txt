@@ -1,20 +1,28 @@
 #profile-title: Black list Niyakwi
 #profile-update-interval: 2
 #support-url: https://t.me/Niyakwi_news
-hy2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@31.76.71.232:443/?sni=de.1.23.h2corp.org#%F0%9F%87%BA%F0%9F%87%B8+4649ms
-hy2://f961b50a-23c9-48d9-9524-8c4a287994e6@pop-11.file-rkat.online:443/?sni=pop-11.file-rkat.online&obfs=salamander&obfs-password=Fp3NQD2QxmTcazHpwBVTo1#%F0%9F%8C%90+3073ms
-hy2://f961b50a-23c9-48d9-9524-8c4a287994e6@pop-11.file-rkat.online:443/?sni=pop-11.file-rkat.online&obfs=salamander&obfs-password=Fp3NQD2QxmTcazHpwBVTo1#%F0%9F%8C%90+4840ms
-hy2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7+5320ms
-hy2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=173.212.201.85#%F0%9F%87%AB%F0%9F%87%B7+4397ms
-hy2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8+5101ms
-hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#%F0%9F%87%B8%F0%9F%87%AC+3485ms
-hysteria2://41f4cb15-5a3f-3934-89fe-b4177146adf4@s785.uugfw.top:443?sni=u643766ubd130da1s783.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%87%BB%F0%9F%87%B3+3541ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE+4224ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE+4235ms
-hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%B8%F0%9F%87%AA+4264ms
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0+4438ms
-hysteria2://cec9a167-6381-4752-9828-a92ab6e6ebdd@94.183.239.1:443?security=tls&sni=cache-stream.videocactus.xyz&alpn=h3&insecure=0&obfs=salamander&obfs-password=91f69ceb59b24b367c71d10183609b30#%F0%9F%87%AA%F0%9F%87%AA+4415ms
-hysteria2://d4a705d40356ef719212045528e04594@45.149.172.80:443/?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a&sni=45.149.172.80#%F0%9F%87%BA%F0%9F%87%B8+4735ms
-hysteria2://d4a705d40356ef719212045528e04594@45.149.172.80:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#%F0%9F%87%BA%F0%9F%87%B8+4574ms
-hysteria2://e31359b2-5cda-409b-a869-79f9645e2db9@gaming-01.file-rkat.online:443?security=tls&sni=gaming-01.file-rkat.online&alpn=h3&obfs=salamander&obfs-password=2gFkILZBBf5wCR7WzOLNazu7#%F0%9F%87%B5%F0%9F%87%B1+4240ms
-hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8+4884ms
+hy2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@31.76.71.232:443/?sni=de.1.23.h2corp.org#%F0%9F%87%BA%F0%9F%87%B8+4175ms
+hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#%F0%9F%87%B8%F0%9F%87%AC+4550ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE+4194ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE+4195ms
+hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#%F0%9F%87%A9%F0%9F%87%AA+4237ms
+hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#%F0%9F%87%A9%F0%9F%87%AA+4238ms
+hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#%F0%9F%87%A9%F0%9F%87%AA+4244ms
+hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443?insecure=1&sni=de-tg.fastlanehosting.ru#%F0%9F%87%A9%F0%9F%87%AA+4236ms
+hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%B8%F0%9F%87%AA+4214ms
+hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%B8%F0%9F%87%AA+4260ms
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0+4462ms
+hysteria2://c5c3b7f7-f36e-4a9e-bb0e-6c705d36a31b@lv.i-love-russia.online:443?security=tls&fm=%7B%7D&sni=lv.i-love-russia.online#%F0%9F%87%BA%F0%9F%87%B8+4293ms
+hysteria2://cec9a167-6381-4752-9828-a92ab6e6ebdd@94.183.239.1:443?security=tls&sni=cache-stream.videocactus.xyz&alpn=h3&insecure=0&obfs=salamander&obfs-password=91f69ceb59b24b367c71d10183609b30#%F0%9F%87%AA%F0%9F%87%AA+4317ms
+hysteria2://d4a705d40356ef719212045528e04594@45.149.172.80:443/?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a&sni=45.149.172.80#%F0%9F%87%BA%F0%9F%87%B8+4532ms
+hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8+4663ms
+hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8+4736ms
+hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8+5010ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE+4203ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE+4219ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%F0%9F%87%AB%F0%9F%87%AE+4195ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%F0%9F%87%AB%F0%9F%87%AE+4217ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?insecure=0&obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE+4209ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=&insecure=0#%F0%9F%87%AB%F0%9F%87%AE+4197ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=&insecure=0#%F0%9F%87%AB%F0%9F%87%AE+4215ms
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&insecure=0#%F0%9F%87%AB%F0%9F%87%AE+4207ms
