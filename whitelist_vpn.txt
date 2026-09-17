@@ -1,13 +1,13 @@
 #profile-title: White list Niyakwi
 #profile-update-interval: 2
 #support-url: https://t.me/Niyakwi_news
-hy2://501d6346-0b0d-44a7-8847-32464045cdf3@78.159.246.200:8450/?insecure=1&sni=testing6.nimarko.org#%F0%9F%87%B7%F0%9F%87%BA+4906ms
-hy2://501d6346-0b0d-44a7-8847-32464045cdf3@78.159.246.200:8450/?insecure=1&sni=testing6.nimarko.org#%F0%9F%87%B7%F0%9F%87%BA+5181ms
-hy2://TEAS5wxqmV@147.45.175.72:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4172ms
-hy2://TEAS5wxqmV@147.45.175.72:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4174ms
-hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4157ms
-hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4165ms
-hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net#%F0%9F%87%B7%F0%9F%87%BA+3096ms
-hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net#%F0%9F%87%B7%F0%9F%87%BA+6812ms
-hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#%F0%9F%87%B7%F0%9F%87%BA+4246ms
-hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#%F0%9F%87%B7%F0%9F%87%BA+5625ms
+hy2://501d6346-0b0d-44a7-8847-32464045cdf3@78.159.246.200:8450/?insecure=1&sni=testing6.nimarko.org#%F0%9F%87%B7%F0%9F%87%BA+4259ms
+hy2://TEAS5wxqmV@147.45.175.72:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4158ms
+hy2://TEAS5wxqmV@147.45.175.72:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4175ms
+hy2://f961b50a-23c9-48d9-9524-8c4a287994e6@pop-11.file-rkat.online:443/?sni=pop-11.file-rkat.online&obfs=salamander&obfs-password=Fp3NQD2QxmTcazHpwBVTo1#%F0%9F%87%B7%F0%9F%87%BA+4438ms
+hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4153ms
+hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#%F0%9F%87%B7%F0%9F%87%BA+4167ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?allowInsecure=1&sni=s516.okgfw.top#%F0%9F%87%B7%F0%9F%87%BA+4405ms
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net#%F0%9F%87%B7%F0%9F%87%BA+4153ms
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net#%F0%9F%87%B7%F0%9F%87%BA+4183ms
+hysteria2://501d6346-0b0d-44a7-8847-32464045cdf3@78.159.246.200:8589?alpn=h3&sni=rgrg.nimarko.org#%F0%9F%87%B7%F0%9F%87%BA+4471ms
