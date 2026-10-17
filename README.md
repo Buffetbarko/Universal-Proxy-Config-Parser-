@@ -39,7 +39,6 @@ rm -rf ~/proxy-parser
 unzip ~/storage/downloads/proxy-parser.zip -d ~/proxy-parser
 cd ~/proxy-parser/proxy-parser
 go build -ldflags="-s -w" -o parser ./cmd/parser/
-go build -o bot ./cmd/bot/
 ```
 
 > `rm -rf ~/proxy-parser` удаляет предыдущую папку установки парсера в домашнем каталоге Termux. Если там есть нужные файлы, сохраните их перед выполнением команды.
