@@ -1,14 +1,5 @@
 #profile-title: White list Niyakwi
 #profile-update-interval: 2
 #support-url: https://t.me/Niyakwi_news
-vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@194.26.229.121:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&fp=firefox&serviceName=astracat#%F0%9F%87%B7%F0%9F%87%BA+1831ms
-vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@194.26.229.121:2095?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&fp=firefox&serviceName=astracat#%F0%9F%87%B7%F0%9F%87%BA+1321ms
-vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@194.26.229.121:2097?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&fp=firefox&serviceName=astracat#%F0%9F%87%B7%F0%9F%87%BA+1255ms
-vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@194.26.229.121:2102?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=GfsyLZhm1nuyrQn3sJyjfi9IY7jsTQllX72mucQjPys&sid=eb5e41e8e8ba88f9&fp=firefox&serviceName=astracat#%F0%9F%87%B7%F0%9F%87%BA+1368ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.252.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=se1.japancase.site&type=tcp#%F0%9F%87%B7%F0%9F%87%BA+2025ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.252.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=se1.japancase.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA+787ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.177.215.220:443?flow=xtls-rprx-vision&fp=firefox&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B7%F0%9F%87%BA+947ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.177.215.220:443?flow=xtls-rprx-vision&fp=firefox&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA+821ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#%F0%9F%87%B7%F0%9F%87%BA+629ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?flow=xtls-rprx-vision&fp=edge&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B7%F0%9F%87%BA+647ms
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B7%F0%9F%87%BA+1239ms
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.252.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=se1.japancase.site#%F0%9F%87%B7%F0%9F%87%BA+2183ms
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.252.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=se1.japancase.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA+1587ms
